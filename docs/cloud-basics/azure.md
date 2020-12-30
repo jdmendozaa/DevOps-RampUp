@@ -1,4 +1,4 @@
-# Cloud Basics
+# Cloud Basics - Azure
 
 This challenge aims to set up the cloud environment on which the project will run.
 
@@ -29,7 +29,7 @@ This challenge aims to set up the cloud environment on which the project will ru
 
     * Create Service Principals to assign permissions to the applications.
 
-5. **Estimate of the total cost of the infrastructure you created** You can use the Azure Calculator or you can create an Excel sheet.
- - Azure Pricing Calculator: https://azure.microsoft.com/en-us/pricing/calculator
+5. **Estimate of the total cost of the infrastructure you created** You can use the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator) or you can create an Excel sheet.
+ 
 
 ## Recommended readings

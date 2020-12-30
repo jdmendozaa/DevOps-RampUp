@@ -1,4 +1,4 @@
-# Cloud Basics
+# Cloud Basics - AWS
 
 This challenge aims to set up the cloud environment on which the project will run.
 
